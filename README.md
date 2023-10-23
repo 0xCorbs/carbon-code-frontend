@@ -21,3 +21,7 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Access to the application
+
+The application is also deployed here: https://carbon-code-frontend.vercel.app/
